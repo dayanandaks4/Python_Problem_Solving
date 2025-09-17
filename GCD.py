@@ -14,5 +14,5 @@ for elem in a:
     c.append(elem)
 sorts =len(c)
 print(c[sorts-1])
-
+print("")
 
