@@ -1,6 +1,6 @@
-# 29.	Check if a number is Armstrong.
+# Check if a number is Armstrong.
 def is_armstrong_number():
-    a = int(input("Enter a number: "))
+    a = int(input("Enter a number: ")) # Take input from user : 153
     conv = str(a)
     lentg = len((conv))
     sum = 0
@@ -10,4 +10,4 @@ def is_armstrong_number():
         print(a,"is Armstrong")
     else:
         print(a,"is not Armstrong")
-is_armstrong_number()
+is_armstrong_number() # output: 153 is Armstrong
