@@ -1,5 +1,4 @@
 # Program to check Armstrong numbers from 1 to 1000
-
 def armstrong():
     for elm in range(1,1001):
         n = elm
