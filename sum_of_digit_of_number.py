@@ -1,4 +1,6 @@
 # Find the sum of digits of a number.
+# user can enter number and they get sum of number.
+
 def sum_of_digit(): 
     user_side = int(input("Enter the number:"))
     conv_str = str(user_side)
