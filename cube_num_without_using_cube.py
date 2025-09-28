@@ -10,6 +10,12 @@ cube(2) # cube of given number is :8
 
 def cube():
     user = int(input("Enter the number:")) # input = 3
+<<<<<<< HEAD
     cubing = user*user*user
     print(f"cube of number is {cubing}") # output = 27
 cube()
+=======
+    squareing = user*user*user
+    print(f"square of number is {squareing}") # output = 27
+cube()
+>>>>>>> ee2eb439310100834e91936c956d521b270d1d67
