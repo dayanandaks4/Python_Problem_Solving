@@ -5,5 +5,5 @@ def check(num):
         return "Even"
     else:
         return "Odd"
-print(check(num =int(input("Enter the number:")))) 
+print(check(num =int(input("Enter the number :")))) 
   
